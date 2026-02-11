@@ -75,7 +75,7 @@
   "author": "ObservedObserver",
   "license": "GPL-3.0-or-later",
   "devDependencies": {
-    "electron": "^7.1.9",
+    "electron": "^40.3.0",
     "electron-builder": "^22.2.0"
   }
 }
