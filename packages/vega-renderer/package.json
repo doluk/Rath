@@ -19,7 +19,7 @@
     "@rollup/plugin-commonjs": "^22.0.2",
     "@rollup/plugin-node-resolve": "^14.1.0",
     "@rollup/plugin-typescript": "^11.1.0",
-    "rollup": "^2.79.1",
+    "rollup": "^4.57.1",
     "ts-lib": "^0.0.5",
     "typescript": "^5.0.4",
     "vega-typings": "^0.24.0"
