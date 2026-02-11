@@ -1905,7 +1905,7 @@
   resolved "https://registry.yarnpkg.com/@babel/regjsgen/-/regjsgen-0.8.0.tgz#f0ba69b075e1f05fb2825b7fad991e7adbb18310"
   integrity sha512-x/rqGMdzj+fWZvCOYForTghzbtqPDZ5gPwaoNGHdgDfF2QA/XZbCBp4Moo5scrkAMPhB7z26XM/AaHuIJdgauA==
 
-"@babel/runtime-corejs3@^7.10.2", "@babel/runtime-corejs3@^7.29.0":
+"@babel/runtime-corejs3@^7.10.2", "@babel/runtime-corejs3@^7.19.4":
   version "7.29.0"
   resolved "https://registry.yarnpkg.com/@babel/runtime-corejs3/-/runtime-corejs3-7.29.0.tgz#56cd28ec515364482afeb880b476936a702461b9"
   integrity sha512-TgUkdp71C9pIbBcHudc+gXZnihEDOjUAmXO1VO4HHGES7QLZcShR0stfKIxLSNIYx2fqhmJChOjm/wkF8wv4gA==
@@ -4375,6 +4375,131 @@
     estree-walker "^2.0.2"
     picomatch "^2.3.1"
 
+"@rollup/rollup-android-arm-eabi@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-android-arm-eabi/-/rollup-android-arm-eabi-4.57.1.tgz#add5e608d4e7be55bc3ca3d962490b8b1890e088"
+  integrity sha512-A6ehUVSiSaaliTxai040ZpZ2zTevHYbvu/lDoeAteHI8QnaosIzm4qwtezfRg1jOYaUmnzLX1AOD6Z+UJjtifg==
+
+"@rollup/rollup-android-arm64@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-android-arm64/-/rollup-android-arm64-4.57.1.tgz#10bd0382b73592beee6e9800a69401a29da625c4"
+  integrity sha512-dQaAddCY9YgkFHZcFNS/606Exo8vcLHwArFZ7vxXq4rigo2bb494/xKMMwRRQW6ug7Js6yXmBZhSBRuBvCCQ3w==
+
+"@rollup/rollup-darwin-arm64@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-darwin-arm64/-/rollup-darwin-arm64-4.57.1.tgz#1e99ab04c0b8c619dd7bbde725ba2b87b55bfd81"
+  integrity sha512-crNPrwJOrRxagUYeMn/DZwqN88SDmwaJ8Cvi/TN1HnWBU7GwknckyosC2gd0IqYRsHDEnXf328o9/HC6OkPgOg==
+
+"@rollup/rollup-darwin-x64@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-darwin-x64/-/rollup-darwin-x64-4.57.1.tgz#69e741aeb2839d2e8f0da2ce7a33d8bd23632423"
+  integrity sha512-Ji8g8ChVbKrhFtig5QBV7iMaJrGtpHelkB3lsaKzadFBe58gmjfGXAOfI5FV0lYMH8wiqsxKQ1C9B0YTRXVy4w==
+
+"@rollup/rollup-freebsd-arm64@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-freebsd-arm64/-/rollup-freebsd-arm64-4.57.1.tgz#3736c232a999c7bef7131355d83ebdf9651a0839"
+  integrity sha512-R+/WwhsjmwodAcz65guCGFRkMb4gKWTcIeLy60JJQbXrJ97BOXHxnkPFrP+YwFlaS0m+uWJTstrUA9o+UchFug==
+
+"@rollup/rollup-freebsd-x64@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-freebsd-x64/-/rollup-freebsd-x64-4.57.1.tgz#227dcb8f466684070169942bd3998901c9bfc065"
+  integrity sha512-IEQTCHeiTOnAUC3IDQdzRAGj3jOAYNr9kBguI7MQAAZK3caezRrg0GxAb6Hchg4lxdZEI5Oq3iov/w/hnFWY9Q==
+
+"@rollup/rollup-linux-arm-gnueabihf@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-linux-arm-gnueabihf/-/rollup-linux-arm-gnueabihf-4.57.1.tgz#ba004b30df31b724f99ce66e7128248bea17cb0c"
+  integrity sha512-F8sWbhZ7tyuEfsmOxwc2giKDQzN3+kuBLPwwZGyVkLlKGdV1nvnNwYD0fKQ8+XS6hp9nY7B+ZeK01EBUE7aHaw==
+
+"@rollup/rollup-linux-arm-musleabihf@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-linux-arm-musleabihf/-/rollup-linux-arm-musleabihf-4.57.1.tgz#6929f3e07be6b6da5991f63c6b68b3e473d0a65a"
+  integrity sha512-rGfNUfn0GIeXtBP1wL5MnzSj98+PZe/AXaGBCRmT0ts80lU5CATYGxXukeTX39XBKsxzFpEeK+Mrp9faXOlmrw==
+
+"@rollup/rollup-linux-arm64-gnu@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-linux-arm64-gnu/-/rollup-linux-arm64-gnu-4.57.1.tgz#06e89fd4a25d21fe5575d60b6f913c0e65297bfa"
+  integrity sha512-MMtej3YHWeg/0klK2Qodf3yrNzz6CGjo2UntLvk2RSPlhzgLvYEB3frRvbEF2wRKh1Z2fDIg9KRPe1fawv7C+g==
+
+"@rollup/rollup-linux-arm64-musl@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-linux-arm64-musl/-/rollup-linux-arm64-musl-4.57.1.tgz#fddabf395b90990d5194038e6cd8c00156ed8ac0"
+  integrity sha512-1a/qhaaOXhqXGpMFMET9VqwZakkljWHLmZOX48R0I/YLbhdxr1m4gtG1Hq7++VhVUmf+L3sTAf9op4JlhQ5u1Q==
+
+"@rollup/rollup-linux-loong64-gnu@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-linux-loong64-gnu/-/rollup-linux-loong64-gnu-4.57.1.tgz#04c10bb764bbf09a3c1bd90432e92f58d6603c36"
+  integrity sha512-QWO6RQTZ/cqYtJMtxhkRkidoNGXc7ERPbZN7dVW5SdURuLeVU7lwKMpo18XdcmpWYd0qsP1bwKPf7DNSUinhvA==
+
+"@rollup/rollup-linux-loong64-musl@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-linux-loong64-musl/-/rollup-linux-loong64-musl-4.57.1.tgz#f2450361790de80581d8687ea19142d8a4de5c0f"
+  integrity sha512-xpObYIf+8gprgWaPP32xiN5RVTi/s5FCR+XMXSKmhfoJjrpRAjCuuqQXyxUa/eJTdAE6eJ+KDKaoEqjZQxh3Gw==
+
+"@rollup/rollup-linux-ppc64-gnu@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-linux-ppc64-gnu/-/rollup-linux-ppc64-gnu-4.57.1.tgz#0474f4667259e407eee1a6d38e29041b708f6a30"
+  integrity sha512-4BrCgrpZo4hvzMDKRqEaW1zeecScDCR+2nZ86ATLhAoJ5FQ+lbHVD3ttKe74/c7tNT9c6F2viwB3ufwp01Oh2w==
+
+"@rollup/rollup-linux-ppc64-musl@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-linux-ppc64-musl/-/rollup-linux-ppc64-musl-4.57.1.tgz#9f32074819eeb1ddbe51f50ea9dcd61a6745ec33"
+  integrity sha512-NOlUuzesGauESAyEYFSe3QTUguL+lvrN1HtwEEsU2rOwdUDeTMJdO5dUYl/2hKf9jWydJrO9OL/XSSf65R5+Xw==
+
+"@rollup/rollup-linux-riscv64-gnu@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-linux-riscv64-gnu/-/rollup-linux-riscv64-gnu-4.57.1.tgz#3fdb9d4b1e29fb6b6a6da9f15654d42eb77b99b2"
+  integrity sha512-ptA88htVp0AwUUqhVghwDIKlvJMD/fmL/wrQj99PRHFRAG6Z5nbWoWG4o81Nt9FT+IuqUQi+L31ZKAFeJ5Is+A==
+
+"@rollup/rollup-linux-riscv64-musl@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-linux-riscv64-musl/-/rollup-linux-riscv64-musl-4.57.1.tgz#1de780d64e6be0e3e8762035c22e0d8ea68df8ed"
+  integrity sha512-S51t7aMMTNdmAMPpBg7OOsTdn4tySRQvklmL3RpDRyknk87+Sp3xaumlatU+ppQ+5raY7sSTcC2beGgvhENfuw==
+
+"@rollup/rollup-linux-s390x-gnu@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-linux-s390x-gnu/-/rollup-linux-s390x-gnu-4.57.1.tgz#1da022ffd2d9e9f0fd8344ea49e113001fbcac64"
+  integrity sha512-Bl00OFnVFkL82FHbEqy3k5CUCKH6OEJL54KCyx2oqsmZnFTR8IoNqBF+mjQVcRCT5sB6yOvK8A37LNm/kPJiZg==
+
+"@rollup/rollup-linux-x64-gnu@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-linux-x64-gnu/-/rollup-linux-x64-gnu-4.57.1.tgz#78c16eef9520bd10e1ea7a112593bb58e2842622"
+  integrity sha512-ABca4ceT4N+Tv/GtotnWAeXZUZuM/9AQyCyKYyKnpk4yoA7QIAuBt6Hkgpw8kActYlew2mvckXkvx0FfoInnLg==
+
+"@rollup/rollup-linux-x64-musl@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-linux-x64-musl/-/rollup-linux-x64-musl-4.57.1.tgz#a7598591b4d9af96cb3167b50a5bf1e02dfea06c"
+  integrity sha512-HFps0JeGtuOR2convgRRkHCekD7j+gdAuXM+/i6kGzQtFhlCtQkpwtNzkNj6QhCDp7DRJ7+qC/1Vg2jt5iSOFw==
+
+"@rollup/rollup-openbsd-x64@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-openbsd-x64/-/rollup-openbsd-x64-4.57.1.tgz#c51d48c07cd6c466560e5bed934aec688ce02614"
+  integrity sha512-H+hXEv9gdVQuDTgnqD+SQffoWoc0Of59AStSzTEj/feWTBAnSfSD3+Dql1ZruJQxmykT/JVY0dE8Ka7z0DH1hw==
+
+"@rollup/rollup-openharmony-arm64@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-openharmony-arm64/-/rollup-openharmony-arm64-4.57.1.tgz#f09921d0b2a0b60afbf3586d2a7a7f208ba6df17"
+  integrity sha512-4wYoDpNg6o/oPximyc/NG+mYUejZrCU2q+2w6YZqrAs2UcNUChIZXjtafAiiZSUc7On8v5NyNj34Kzj/Ltk6dQ==
+
+"@rollup/rollup-win32-arm64-msvc@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-win32-arm64-msvc/-/rollup-win32-arm64-msvc-4.57.1.tgz#08d491717135376e4a99529821c94ecd433d5b36"
+  integrity sha512-O54mtsV/6LW3P8qdTcamQmuC990HDfR71lo44oZMZlXU4tzLrbvTii87Ni9opq60ds0YzuAlEr/GNwuNluZyMQ==
+
+"@rollup/rollup-win32-ia32-msvc@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-win32-ia32-msvc/-/rollup-win32-ia32-msvc-4.57.1.tgz#b0c12aac1104a8b8f26a5e0098e5facbb3e3964a"
+  integrity sha512-P3dLS+IerxCT/7D2q2FYcRdWRl22dNbrbBEtxdWhXrfIMPP9lQhb5h4Du04mdl5Woq05jVCDPCMF7Ub0NAjIew==
+
+"@rollup/rollup-win32-x64-gnu@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-win32-x64-gnu/-/rollup-win32-x64-gnu-4.57.1.tgz#b9cccef26f5e6fdc013bf3c0911a3c77428509d0"
+  integrity sha512-VMBH2eOOaKGtIJYleXsi2B8CPVADrh+TyNxJ4mWPnKfLB/DBUmzW+5m1xUrcwWoMfSLagIRpjUFeW5CO5hyciQ==
+
+"@rollup/rollup-win32-x64-msvc@4.57.1":
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/@rollup/rollup-win32-x64-msvc/-/rollup-win32-x64-msvc-4.57.1.tgz#a03348e7b559c792b6277cc58874b89ef46e1e72"
+  integrity sha512-mxRFDdHIWRxg3UfIIAwCm6NzvxG0jDX/wBN6KsQFTvKFqqg9vTrWUE68qEjHt19A5wwx5X5aUi2zuZT7YR0jrA==
+
 "@rushstack/eslint-patch@^1.1.0":
   version "1.2.0"
   resolved "https://registry.npmmirror.com/@rushstack/eslint-patch/-/eslint-patch-1.2.0.tgz#8be36a1f66f3265389e90b5f9c9962146758f728"
@@ -4771,15 +4896,15 @@
   resolved "https://registry.yarnpkg.com/@types/estree/-/estree-0.0.39.tgz#e177e699ee1b8c22d23174caaa7422644389509f"
   integrity sha512-EYNwp3bU+98cpU4lAWYYL7Zz+2gryWH1qbdDTidVd6hkiR6weksdbMadyXKXNPEkQFhXM+hVO9ZygomHXp+AIw==
 
+"@types/estree@1.0.8", "@types/estree@^1.0.8":
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/@types/estree/-/estree-1.0.8.tgz#958b91c991b1867ced318bedea0e215ee050726e"
+  integrity sha512-dWHzHa2WqEXI/O1E9OjrocMTKJl2mSrEolh1Iomrv6U+JuNwaHXsXx9bLu5gG7BUWFIN0skIQJQ/L1rIex4X6w==
+
 "@types/estree@^1.0.0":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@types/estree/-/estree-1.0.1.tgz#aa22750962f3bf0e79d753d3cc067f010c95f194"
   integrity sha512-LG4opVs2ANWZ1TJoKc937iMmNstM/d0ae1vNbnBvBhqCSezgVUOzcLCqbI5elV8Vy6WKwKjaqR+zO9VKirBBCA==
-
-"@types/estree@^1.0.8":
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/@types/estree/-/estree-1.0.8.tgz#958b91c991b1867ced318bedea0e215ee050726e"
-  integrity sha512-dWHzHa2WqEXI/O1E9OjrocMTKJl2mSrEolh1Iomrv6U+JuNwaHXsXx9bLu5gG7BUWFIN0skIQJQ/L1rIex4X6w==
 
 "@types/express-serve-static-core@*", "@types/express-serve-static-core@^4.17.18":
   version "4.17.31"
@@ -4806,6 +4931,11 @@
   integrity sha512-zu3mQJa4hDNubEMViSj937602XdDGzK7Q5pJ5QmLUbNxclbo9tZGt5jtwM352ssZ+pqo5V4H14TBvT/ALqQQcA==
   dependencies:
     "@types/node" "*"
+
+"@types/geojson@7946.0.16":
+  version "7946.0.16"
+  resolved "https://registry.yarnpkg.com/@types/geojson/-/geojson-7946.0.16.tgz#8ebe53d69efada7044454e3305c19017d97ced2a"
+  integrity sha512-6C8nqWur3j98U6+lXDfTUWIfgvZU+EumvpHKcYjujKH7woYyLj2sUmff0tRhrqM7BohUw7Pz3ZB1jj2gW9Fvmg==
 
 "@types/geojson@7946.0.4":
   version "7946.0.4"
@@ -5788,6 +5918,11 @@ autoprefixer@^10.3.5, autoprefixer@^10.4.11:
     picocolors "^1.0.0"
     postcss-value-parser "^4.2.0"
 
+aws-ssl-profiles@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/aws-ssl-profiles/-/aws-ssl-profiles-1.1.2.tgz#157dd77e9f19b1d123678e93f120e6f193022641"
+  integrity sha512-NZKeq9AfyQvEeNlN0zSYAaWrmBffJh3IELMZfRpJVWgrpEbtEpnjvzqBPf+mxoI287JohRDoa+/nsfqqiZmF6g==
+
 axe-core@^4.4.3:
   version "4.4.3"
   resolved "https://registry.yarnpkg.com/axe-core/-/axe-core-4.4.3.tgz#11c74d23d5013c0fa5d183796729bc3482bd2f6f"
@@ -5801,13 +5936,13 @@ axios@^0.27.2:
     follow-redirects "^1.14.9"
     form-data "^4.0.0"
 
-axios@^0.30.2:
-  version "0.30.2"
-  resolved "https://registry.yarnpkg.com/axios/-/axios-0.30.2.tgz#256d3a8ee765cc27188d08b8b545a5f5a0c77dad"
-  integrity sha512-0pE4RQ4UQi1jKY6p7u6i1Tkzqmu+d+/tHS7Q7rKunWLB9WyilBTpHHpXzPNMDj5hTbK0B0PTLSz07yqMBiF6xg==
+axios@^1.13.5:
+  version "1.13.5"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-1.13.5.tgz#5e464688fa127e11a660a2c49441c009f6567a43"
+  integrity sha512-cz4ur7Vb0xS4/KUN0tPWe44eqxrIu31me+fbang3ijiNscE129POzipJJA6zniq2C/Z6sJCjMimjS8Lc/GAs8Q==
   dependencies:
-    follow-redirects "^1.15.4"
-    form-data "^4.0.4"
+    follow-redirects "^1.15.11"
+    form-data "^4.0.5"
     proxy-from-env "^1.1.0"
 
 axobject-query@^2.2.0:
@@ -7018,7 +7153,7 @@ customize-cra@^1.0.0:
   dependencies:
     internmap "1 - 2"
 
-d3-array@3.2.4, d3-array@^3.2.2:
+d3-array@3.2.4, d3-array@^3.2.2, d3-array@^3.2.4:
   version "3.2.4"
   resolved "https://registry.yarnpkg.com/d3-array/-/d3-array-3.2.4.tgz#15fec33b237f97ac5d7c986dc77da273a8ed0bb5"
   integrity sha512-tdQAmyA18i4J7wprpYq8ClcxZy3SC31QMeByyCFyRt7BVHdREQZ5lpzoe5mFEYZUWe+oq8HBvk9JjpibyEV4Jg==
@@ -7039,6 +7174,13 @@ d3-delaunay@^6.0.2:
   version "6.0.2"
   resolved "https://registry.yarnpkg.com/d3-delaunay/-/d3-delaunay-6.0.2.tgz#7fd3717ad0eade2fc9939f4260acfb503f984e92"
   integrity sha512-IMLNldruDQScrcfT+MWnazhHbDJhcRJyOEBAJfwQnHle1RPh6WDuLvxNArUju2VSMSUuKlY5BGHRJ2cYyoFLQQ==
+  dependencies:
+    delaunator "5"
+
+d3-delaunay@^6.0.4:
+  version "6.0.4"
+  resolved "https://registry.yarnpkg.com/d3-delaunay/-/d3-delaunay-6.0.4.tgz#98169038733a0a5babbeda55054f795bb9e4a58b"
+  integrity sha512-mdjtIZ1XLAM8bm/hx3WwjfHt6Sggek7qH043O8KEjDXN40xi3vx/6pYSVTwLjEgiXQTbvaouWKynLBiUZ6SK6A==
   dependencies:
     delaunator "5"
 
@@ -7105,7 +7247,7 @@ d3-geo-projection@^4.0.0:
   dependencies:
     d3-array "2.5.0 - 3"
 
-d3-geo@^3.1.0:
+d3-geo@^3.1.0, d3-geo@^3.1.1:
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/d3-geo/-/d3-geo-3.1.1.tgz#6027cf51246f9b2ebd64f99e01dc7c3364033a4d"
   integrity sha512-637ln3gXKXOwhalDzinUgY83KzNWZRKbYubaG+fGVuc/dxO64RRljtCTnf5ecMyE1RIdtqpkVcq0IbtU2S8j2Q==
@@ -8413,7 +8555,7 @@ flatted@^3.1.0:
   resolved "https://registry.yarnpkg.com/flatted/-/flatted-3.2.7.tgz#609f39207cb614b89d0765b477cb2d437fbf9787"
   integrity sha512-5nqDSxl8nn5BSNxyR3n4I6eDmbolI6WT+QqR547RwxQapgjQBmtktdP+HTBb/a/zLsbzERTONyUB5pefh5TtjQ==
 
-follow-redirects@^1.0.0, follow-redirects@^1.14.9, follow-redirects@^1.15.4:
+follow-redirects@^1.0.0, follow-redirects@^1.14.9, follow-redirects@^1.15.11:
   version "1.15.11"
   resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.15.11.tgz#777d73d72a92f8ec4d2e410eb47352a56b8e8340"
   integrity sha512-deG2P0JfjrTxl50XGCDyfI97ZGVCxIpfKYmfyrQ54n5FO/0gfIES8C/Psl6kWVDolizcaaxZJnTS0QSMxvnsBQ==
@@ -8448,7 +8590,7 @@ form-data@^3.0.0:
     hasown "^2.0.2"
     mime-types "^2.1.35"
 
-form-data@^4.0.0, form-data@^4.0.4:
+form-data@^4.0.0, form-data@^4.0.5:
   version "4.0.5"
   resolved "https://registry.yarnpkg.com/form-data/-/form-data-4.0.5.tgz#b49e48858045ff4cbf6b03e1805cebcad3679053"
   integrity sha512-8RipRLol37bNs2bhoV67fiTEvdTrbMUYcFTiy3+wuuOnUog2QBHCZWXDRijWQfAkhBj2Uf5UnVaiWwA5vdd82w==
@@ -9070,6 +9212,13 @@ iconv-lite@0.6, iconv-lite@^0.6.3:
   version "0.6.3"
   resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.6.3.tgz#a52f80bf38da1952eb5c681790719871a1a72501"
   integrity sha512-4fCk79wshMdzMp2rH06qWrJE4iolqLhCUH+OiuIgU++RB0+94NlDL81atO7GX55uUKueo0txHNtvEyI6D7WdMw==
+  dependencies:
+    safer-buffer ">= 2.1.2 < 3.0.0"
+
+iconv-lite@^0.7.2:
+  version "0.7.2"
+  resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.7.2.tgz#d0bdeac3f12b4835b7359c2ad89c422a4d1cc72e"
+  integrity sha512-im9DjEDQ55s9fL4EYzOAv0yMqmMBSZp6G0VvFyTMPKWxiSBHUj9NW/qqLmXUwXrrM7AvqSlTCfvqRb0cM8yYqw==
   dependencies:
     safer-buffer ">= 2.1.2 < 3.0.0"
 
@@ -11036,10 +11185,10 @@ koa-compose@^4.1.0:
   resolved "https://registry.yarnpkg.com/koa-compose/-/koa-compose-4.1.0.tgz#507306b9371901db41121c812e923d0d67d3e877"
   integrity sha512-8ODW8TrDuMYvXRwra/Kh7/rJo9BtOfPc6qO8eAfC80CnCvSjSl0bkRM24X6/XBBEyj0v1nRUQ1LyOy3dbqOWXw==
 
-koa@^3.0.3:
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/koa/-/koa-3.0.3.tgz#40a97b6da0c0d49a704af82db2b3e5a618ed9042"
-  integrity sha512-MeuwbCoN1daWS32/Ni5qkzmrOtQO2qrnfdxDHjrm6s4b59yG4nexAJ0pTEFyzjLp0pBVO80CZp0vW8Ze30Ebow==
+koa@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/koa/-/koa-3.1.1.tgz#5550bef74f690412b1f6f2a3cbed851b80ed9809"
+  integrity sha512-KDDuvpfqSK0ZKEO2gCPedNjl5wYpfj+HNiuVRlbhd1A88S3M0ySkdf2V/EJ4NWt5dwh5PXCdcenrKK2IQJAxsg==
   dependencies:
     accepts "^1.3.8"
     content-disposition "~0.5.4"
@@ -11218,7 +11367,7 @@ lodash@^4.0.1, lodash@^4.17.11, lodash@^4.17.15, lodash@^4.17.20, lodash@^4.17.2
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.23.tgz#f113b0378386103be4f6893388c73d0bde7f2c5a"
   integrity sha512-LgVTMpQtIopCi79SJeDiP0TfWi5CNEc/L/aRdTh3yIvmZXTnheWpKjSZhnvMl8iXbC1tFg9gdHHDMLoV7CnG+w==
 
-long@^5.2.1:
+long@^5.3.2:
   version "5.3.2"
   resolved "https://registry.yarnpkg.com/long/-/long-5.3.2.tgz#1d84463095999262d7d7b7f8bfd4a8cc55167f83"
   integrity sha512-mNAgZ1GmyNhD7AuqnTG3/VQ26o760+ZYBPKjPvugO8+nLbYfX6TVpJPseBvopbdY+qpZ/lKUnmEc1LeZYS3QAA==
@@ -11244,12 +11393,7 @@ lru-cache@^5.1.1:
   dependencies:
     yallist "^3.0.2"
 
-lru-cache@^8.0.0:
-  version "8.0.5"
-  resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-8.0.5.tgz#983fe337f3e176667f8e567cfcce7cb064ea214e"
-  integrity sha512-MhWWlVnuab1RG5/zMRRcVGXZLCXrZTgfwMikgzCegsPnG62yDQo5JnqKkrK4jO5iKqDAZGItAqN5CtKBCBWRUA==
-
-lru.min@^1.1.0:
+lru.min@^1.1.0, lru.min@^1.1.3:
   version "1.1.4"
   resolved "https://registry.yarnpkg.com/lru.min/-/lru.min-1.1.4.tgz#6ea1737a8c1ba2300cc87ad46910a4bdffa0117b"
   integrity sha512-DqC6n3QQ77zdFpCMASA1a3Jlb64Hv2N2DciFGkO/4L9+q/IpIAuRlKOvCXabtRW6cQf8usbmM6BE/TOPysCdIA==
@@ -11559,21 +11703,22 @@ multicast-dns@^7.2.5:
     dns-packet "^5.2.2"
     thunky "^1.0.2"
 
-mysql2@^3.9.8:
-  version "3.9.8"
-  resolved "https://registry.yarnpkg.com/mysql2/-/mysql2-3.9.8.tgz#fe8a0f975f2c495ed76ca988ddc5505801dc49ce"
-  integrity sha512-+5JKNjPuks1FNMoy9TYpl77f+5frbTklz7eb3XDwbpsERRLEeXiW2PDEkakYF50UuKU2qwfGnyXpKYvukv8mGA==
+mysql2@^3.16.3:
+  version "3.17.0"
+  resolved "https://registry.yarnpkg.com/mysql2/-/mysql2-3.17.0.tgz#e07df94641ea968e53b1c96f5d5aede96b2b031b"
+  integrity sha512-qF1KYPuytBGqAnMzaQ5/rW90iIqcjnrnnS7bvcJcdarJzlUTAiD9ZC0T7mwndacECseSQ6LcRbRvryXLp25m+g==
   dependencies:
+    aws-ssl-profiles "^1.1.2"
     denque "^2.1.0"
     generate-function "^2.3.1"
-    iconv-lite "^0.6.3"
-    long "^5.2.1"
-    lru-cache "^8.0.0"
-    named-placeholders "^1.1.3"
+    iconv-lite "^0.7.2"
+    long "^5.3.2"
+    lru.min "^1.1.3"
+    named-placeholders "^1.1.6"
     seq-queue "^0.0.5"
-    sqlstring "^2.3.2"
+    sql-escaper "^1.3.1"
 
-named-placeholders@^1.1.3:
+named-placeholders@^1.1.6:
   version "1.1.6"
   resolved "https://registry.yarnpkg.com/named-placeholders/-/named-placeholders-1.1.6.tgz#c50c6920b43f258f59c16add1e56654f5cc02bb5"
   integrity sha512-Tz09sEL2EEuv5fFowm419c1+a/jSMiBjI9gHxVLrVdbUkkNUUfjsVYs9pVZu5oCon/kmRh9TfLEObFtkVxmY0w==
@@ -11604,10 +11749,10 @@ nanoid@^4.0.2:
   resolved "https://registry.npmmirror.com/nanoid/-/nanoid-4.0.2.tgz#140b3c5003959adbebf521c170f282c5e7f9fb9e"
   integrity sha512-7ZtY5KTCNheRGfEFxnedV5zFiORN1+Y1N6zvPTnHQd8ENUvfaDBeuJDZb2bN/oXwXxu3qkTXDzy57W5vAmDTBw==
 
-nanoid@^5.0.9:
-  version "5.0.9"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-5.0.9.tgz#977dcbaac055430ce7b1e19cf0130cea91a20e50"
-  integrity sha512-Aooyr6MXU6HpvvWXKoVoXwKMs/KyVakWwg7xQfv5/S/RIgJMy0Ifa45H9qqYy7pTCszrHzP21Uk4PZq2HpEM8Q==
+nanoid@^5.1.6:
+  version "5.1.6"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-5.1.6.tgz#30363f664797e7d40429f6c16946d6bd7a3f26c9"
+  integrity sha512-c7+7RQ+dMB5dPwwCp4ee1/iV/q2P6aK1mTZcfr1BTuVlyW9hJYiMPybJCcnBlQtuSmTIWNeazm/zqNoZSSElBg==
 
 natural-compare@^1.4.0:
   version "1.4.0"
@@ -12910,14 +13055,7 @@ q@^1.1.2:
   resolved "https://registry.yarnpkg.com/q/-/q-1.5.1.tgz#7e32f75b41381291d04611f1bf14109ac00651d7"
   integrity sha512-kV/CThkXo6xyFEZUugw/+pIOywXcDbFYgSct5cT3gqlbkBE1SJdwy6UQoZvodiWF/ckQLZyDE/Bu1M6gVu5lVw==
 
-qs@^6.4.0:
-  version "6.11.0"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.11.0.tgz#fd0d963446f7a65e1367e01abd85429453f0c37a"
-  integrity sha512-MvjoMCJwEarSbUYk5O+nmoSzSutSsTwF85zcHPQ9OrlFoZOYIjaqBAJIqIXjptyD5vThxGq52Xu/MaJzRkIk4Q==
-  dependencies:
-    side-channel "^1.0.4"
-
-qs@~6.14.0:
+qs@^6.4.0, qs@~6.14.0:
   version "6.14.1"
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.14.1.tgz#a41d85b9d3902f31d27861790506294881871159"
   integrity sha512-4EK3+xJl8Ts67nLYNwqw/dsFVnCf+qR7RgXSK9jEEm9unao3njwMDdmsdvoKBKHzxd7tCYz5e5M+SnMjdtXGQQ==
@@ -13628,6 +13766,40 @@ rollup@^2.43.1, rollup@^2.79.2:
   optionalDependencies:
     fsevents "~2.3.2"
 
+rollup@^4.57.1:
+  version "4.57.1"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-4.57.1.tgz#947f70baca32db2b9c594267fe9150aa316e5a88"
+  integrity sha512-oQL6lgK3e2QZeQ7gcgIkS2YZPg5slw37hYufJ3edKlfQSGGm8ICoxswK15ntSzF/a8+h7ekRy7k7oWc3BQ7y8A==
+  dependencies:
+    "@types/estree" "1.0.8"
+  optionalDependencies:
+    "@rollup/rollup-android-arm-eabi" "4.57.1"
+    "@rollup/rollup-android-arm64" "4.57.1"
+    "@rollup/rollup-darwin-arm64" "4.57.1"
+    "@rollup/rollup-darwin-x64" "4.57.1"
+    "@rollup/rollup-freebsd-arm64" "4.57.1"
+    "@rollup/rollup-freebsd-x64" "4.57.1"
+    "@rollup/rollup-linux-arm-gnueabihf" "4.57.1"
+    "@rollup/rollup-linux-arm-musleabihf" "4.57.1"
+    "@rollup/rollup-linux-arm64-gnu" "4.57.1"
+    "@rollup/rollup-linux-arm64-musl" "4.57.1"
+    "@rollup/rollup-linux-loong64-gnu" "4.57.1"
+    "@rollup/rollup-linux-loong64-musl" "4.57.1"
+    "@rollup/rollup-linux-ppc64-gnu" "4.57.1"
+    "@rollup/rollup-linux-ppc64-musl" "4.57.1"
+    "@rollup/rollup-linux-riscv64-gnu" "4.57.1"
+    "@rollup/rollup-linux-riscv64-musl" "4.57.1"
+    "@rollup/rollup-linux-s390x-gnu" "4.57.1"
+    "@rollup/rollup-linux-x64-gnu" "4.57.1"
+    "@rollup/rollup-linux-x64-musl" "4.57.1"
+    "@rollup/rollup-openbsd-x64" "4.57.1"
+    "@rollup/rollup-openharmony-arm64" "4.57.1"
+    "@rollup/rollup-win32-arm64-msvc" "4.57.1"
+    "@rollup/rollup-win32-ia32-msvc" "4.57.1"
+    "@rollup/rollup-win32-x64-gnu" "4.57.1"
+    "@rollup/rollup-win32-x64-msvc" "4.57.1"
+    fsevents "~2.3.2"
+
 rtl-css-js@^1.14.0, rtl-css-js@^1.16.1:
   version "1.16.1"
   resolved "https://registry.npmmirror.com/rtl-css-js/-/rtl-css-js-1.16.1.tgz#4b48b4354b0ff917a30488d95100fbf7219a3e80"
@@ -14158,10 +14330,10 @@ sprintf-js@~1.0.2:
   resolved "https://registry.yarnpkg.com/sprintf-js/-/sprintf-js-1.0.3.tgz#04e6926f662895354f3dd015203633b857297e2c"
   integrity sha512-D9cPgkvLlV3t3IzL0D0YLvGA9Ahk4PcvVwUbN0dSGr1aP0Nrt4AEnTUbuGvquEC0mA64Gqt1fzirlRs5ibXx8g==
 
-sqlstring@^2.3.2:
-  version "2.3.3"
-  resolved "https://registry.yarnpkg.com/sqlstring/-/sqlstring-2.3.3.tgz#2ddc21f03bce2c387ed60680e739922c65751d0c"
-  integrity sha512-qC9iz2FlN7DQl3+wjwn3802RTyjCx7sDvfQEXchwa6CWOx07/WVfh91gBmQ9fahw8snwGEWU3xGzOt4tFyHLxg==
+sql-escaper@^1.3.1:
+  version "1.3.1"
+  resolved "https://registry.yarnpkg.com/sql-escaper/-/sql-escaper-1.3.1.tgz#9a24cf6b26436b4dc74c8708ee08306446527d9f"
+  integrity sha512-GLMJGWKzrr7BS5E5+8Prix6RGfBd4UokKMxkPSg313X0TvUyjdJU3Xg7FAhhcba4dHnLy81t4YeHETKLGVsDow==
 
 ssf@~0.11.2:
   version "0.11.2"
@@ -15187,6 +15359,11 @@ vega-canvas@^1.2.7:
   resolved "https://registry.yarnpkg.com/vega-canvas/-/vega-canvas-1.2.7.tgz#cf62169518f5dcd91d24ad352998c2248f8974fb"
   integrity sha512-OkJ9CACVcN9R5Pi9uF6MZBF06pO6qFpDYHWSKBJsdHP5o724KrsgR6UvbnXFH82FdsiTOff/HqjuaG8C7FL+9Q==
 
+vega-canvas@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/vega-canvas/-/vega-canvas-2.0.0.tgz#4709deb68f9b4fd7475957bed99f16c38dbc07b8"
+  integrity sha512-9x+4TTw/USYST5nx4yN272sy9WcqSRjAR0tkQYZJ4cQIeon7uVsnohvoPQK1JZu7K1QXGUqzj08z0u/UegBVMA==
+
 vega-crossfilter@~4.1.3:
   version "4.1.4"
   resolved "https://registry.yarnpkg.com/vega-crossfilter/-/vega-crossfilter-4.1.4.tgz#d5c30a41c1670e016025dde7a3f2fb46fc178fef"
@@ -15196,6 +15373,15 @@ vega-crossfilter@~4.1.3:
     vega-dataflow "^5.7.8"
     vega-util "^1.17.4"
 
+vega-crossfilter@~5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/vega-crossfilter/-/vega-crossfilter-5.1.0.tgz#f4c56d9e0c31705cae41cd0e35abcdee20c0c483"
+  integrity sha512-EmVhfP3p6AM7o/lPan/QAoqjblI19BxWUlvl2TSs0xjQd8KbaYYbS4Ixt3cmEvl0QjRdBMF6CdJJ/cy9DTS4Fw==
+  dependencies:
+    d3-array "^3.2.4"
+    vega-dataflow "^6.1.0"
+    vega-util "^2.1.0"
+
 vega-dataflow@^5.7.7, vega-dataflow@^5.7.8, vega-dataflow@~5.7.7:
   version "5.7.8"
   resolved "https://registry.yarnpkg.com/vega-dataflow/-/vega-dataflow-5.7.8.tgz#16691d866907366b52257f4b752d46e143dc1b3c"
@@ -15204,6 +15390,15 @@ vega-dataflow@^5.7.7, vega-dataflow@^5.7.8, vega-dataflow@~5.7.7:
     vega-format "^1.1.4"
     vega-loader "^4.5.4"
     vega-util "^1.17.4"
+
+vega-dataflow@^6.1.0, vega-dataflow@~6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/vega-dataflow/-/vega-dataflow-6.1.0.tgz#1fc48ea6bbbe002d45a1a48eee67aea097a57c55"
+  integrity sha512-JxumGlODtFbzoQ4c/jQK8Tb/68ih0lrexlCozcMfTAwQ12XhTqCvlafh7MAKKTMBizjOfaQTHm4Jkyb1H5CfyQ==
+  dependencies:
+    vega-format "^2.1.0"
+    vega-loader "^5.1.0"
+    vega-util "^2.1.0"
 
 vega-embed@^6.21.0:
   version "6.21.0"
@@ -15230,10 +15425,26 @@ vega-encode@~4.10.2:
     vega-scale "^7.4.3"
     vega-util "^1.17.4"
 
+vega-encode@~5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/vega-encode/-/vega-encode-5.1.0.tgz#05f56b898822e09df96a5ca7f1017b9f9a1c4d3b"
+  integrity sha512-q26oI7B+MBQYcTQcr5/c1AMsX3FvjZLQOBi7yI0vV+GEn93fElDgvhQiYrgeYSD4Exi/jBPeUXuN6p4bLz16kA==
+  dependencies:
+    d3-array "^3.2.4"
+    d3-interpolate "^3.0.1"
+    vega-dataflow "^6.1.0"
+    vega-scale "^8.1.0"
+    vega-util "^2.1.0"
+
 vega-event-selector@^3.0.1, vega-event-selector@~3.0.0, vega-event-selector@~3.0.1:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/vega-event-selector/-/vega-event-selector-3.0.1.tgz#b99e92147b338158f8079d81b28b2e7199c2e259"
   integrity sha512-K5zd7s5tjr1LiOOkjGpcVls8GsH/f2CWCrWcpKy74gTCp+llCdwz0Enqo013ZlGaRNjfgD/o1caJRt3GSaec4A==
+
+vega-event-selector@^4.0.0, vega-event-selector@~4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/vega-event-selector/-/vega-event-selector-4.0.0.tgz#425e9f2671e858a1a45b4b6a7fc452ca0b22abbf"
+  integrity sha512-CcWF4m4KL/al1Oa5qSzZ5R776q8lRxCj3IafCHs5xipoEHrkgu1BWa7F/IH5HrDNXeIDnqOpSV1pFsAWRak4gQ==
 
 vega-expression@^5.0.1, vega-expression@^5.2.0, vega-expression@^5.2.1, vega-expression@~5.2.0:
   version "5.2.1"
@@ -15242,6 +15453,14 @@ vega-expression@^5.0.1, vega-expression@^5.2.0, vega-expression@^5.2.1, vega-exp
   dependencies:
     "@types/estree" "^1.0.0"
     vega-util "^1.17.4"
+
+vega-expression@^6.1.0, vega-expression@~6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/vega-expression/-/vega-expression-6.1.0.tgz#6ce358a39b9b953806bff200f6f84f44163c9e38"
+  integrity sha512-hHgNx/fQ1Vn1u6vHSamH7lRMsOa/yQeHGGcWVmh8fZafLdwdhCM91kZD9p7+AleNpgwiwzfGogtpATFaMmDFYg==
+  dependencies:
+    "@types/estree" "^1.0.8"
+    vega-util "^2.1.0"
 
 vega-expression@~5.0.0:
   version "5.0.1"
@@ -15260,6 +15479,15 @@ vega-force@~4.2.2:
     vega-dataflow "^5.7.8"
     vega-util "^1.17.4"
 
+vega-force@~5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/vega-force/-/vega-force-5.1.0.tgz#aa7cf8edbe2ae3bada070f343565dfb841e501a9"
+  integrity sha512-wdnchOSeXpF9Xx8Yp0s6Do9F7YkFeOn/E/nENtsI7NOcyHpICJ5+UkgjUo9QaQ/Yu+dIDU+sP/4NXsUtq6SMaQ==
+  dependencies:
+    d3-force "^3.0.0"
+    vega-dataflow "^6.1.0"
+    vega-util "^2.1.0"
+
 vega-format@^1.1.3, vega-format@^1.1.4, vega-format@~1.1.3:
   version "1.1.4"
   resolved "https://registry.yarnpkg.com/vega-format/-/vega-format-1.1.4.tgz#49533a0710422bae177224f75ebd547589ec352d"
@@ -15270,6 +15498,17 @@ vega-format@^1.1.3, vega-format@^1.1.4, vega-format@~1.1.3:
     d3-time-format "^4.1.0"
     vega-time "^2.1.4"
     vega-util "^1.17.4"
+
+vega-format@^2.1.0, vega-format@~2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/vega-format/-/vega-format-2.1.0.tgz#4652c7ec9fb1b7ff9a2c50dcd498a36ba6146fda"
+  integrity sha512-i9Ht33IgqG36+S1gFDpAiKvXCPz+q+1vDhDGKK8YsgMxGOG4PzinKakI66xd7SdV4q97FgpR7odAXqtDN2wKqw==
+  dependencies:
+    d3-array "^3.2.4"
+    d3-format "^3.1.0"
+    d3-time-format "^4.1.0"
+    vega-time "^3.1.0"
+    vega-util "^2.1.0"
 
 vega-functions@^5.17.0:
   version "5.18.1"
@@ -15287,6 +15526,23 @@ vega-functions@^5.17.0:
     vega-statistics "^1.9.0"
     vega-time "^2.1.4"
     vega-util "^1.17.4"
+
+vega-functions@^6.1.0, vega-functions@~6.1.0:
+  version "6.1.1"
+  resolved "https://registry.yarnpkg.com/vega-functions/-/vega-functions-6.1.1.tgz#5d4e9746aadde2b3b70d8da3e6338892d05cd9d2"
+  integrity sha512-Due6jP0y0FfsGMTrHnzUGnEwXPu7VwE+9relfo+LjL/tRPYnnKqwWvzt7n9JkeBuZqjkgYjMzm/WucNn6Hkw5A==
+  dependencies:
+    d3-array "^3.2.4"
+    d3-color "^3.1.0"
+    d3-geo "^3.1.1"
+    vega-dataflow "^6.1.0"
+    vega-expression "^6.1.0"
+    vega-scale "^8.1.0"
+    vega-scenegraph "^5.1.0"
+    vega-selections "^6.1.0"
+    vega-statistics "^2.0.0"
+    vega-time "^3.1.0"
+    vega-util "^2.1.0"
 
 vega-functions@~5.17.0:
   version "5.17.0"
@@ -15319,6 +15575,20 @@ vega-geo@~4.4.3:
     vega-statistics "^1.9.0"
     vega-util "^1.17.4"
 
+vega-geo@~5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/vega-geo/-/vega-geo-5.1.0.tgz#d8fe6ae912ad27cd2b1c21f545a74c07da093589"
+  integrity sha512-H8aBBHfthc3rzDbz/Th18+Nvp00J73q3uXGAPDQqizioDm/CoXCK8cX4pMePydBY9S6ikBiGJrLKFDa80wI20g==
+  dependencies:
+    d3-array "^3.2.4"
+    d3-color "^3.1.0"
+    d3-geo "^3.1.1"
+    vega-canvas "^2.0.0"
+    vega-dataflow "^6.1.0"
+    vega-projection "^2.1.0"
+    vega-statistics "^2.0.0"
+    vega-util "^2.1.0"
+
 vega-hierarchy@~4.1.3:
   version "4.1.4"
   resolved "https://registry.yarnpkg.com/vega-hierarchy/-/vega-hierarchy-4.1.4.tgz#137506ef96439acf450e585b4d61c977231df60b"
@@ -15327,6 +15597,15 @@ vega-hierarchy@~4.1.3:
     d3-hierarchy "^3.1.2"
     vega-dataflow "^5.7.8"
     vega-util "^1.17.4"
+
+vega-hierarchy@~5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/vega-hierarchy/-/vega-hierarchy-5.1.0.tgz#423770dd1cb4684370f23a688dc5b6dad1399dbf"
+  integrity sha512-rZlU8QJNETlB6o73lGCPybZtw2fBBsRIRuFE77aCLFHdGsh6wIifhplVarqE9icBqjUHRRUOmcEYfzwVIPr65g==
+  dependencies:
+    d3-hierarchy "^3.1.2"
+    vega-dataflow "^6.1.0"
+    vega-util "^2.1.0"
 
 vega-interpreter@^1.0.4:
   version "1.2.1"
@@ -15344,6 +15623,16 @@ vega-label@~1.3.1:
     vega-dataflow "^5.7.8"
     vega-scenegraph "^4.13.2"
     vega-util "^1.17.4"
+
+vega-label@~2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/vega-label/-/vega-label-2.1.0.tgz#bd977cd14e9b062fce31593a2db2819aa9efb2c9"
+  integrity sha512-/hgf+zoA3FViDBehrQT42Lta3t8In6YwtMnwjYlh72zNn1p3c7E3YUBwqmAqTM1x+tudgzMRGLYig+bX1ewZxQ==
+  dependencies:
+    vega-canvas "^2.0.0"
+    vega-dataflow "^6.1.0"
+    vega-scenegraph "^5.1.0"
+    vega-util "^2.1.0"
 
 vega-lite@^5.6.0:
   version "5.6.0"
@@ -15372,6 +15661,16 @@ vega-loader@^4.4.0, vega-loader@^4.5.4, vega-loader@~4.5.3:
     vega-format "^1.1.4"
     vega-util "^1.17.4"
 
+vega-loader@^5.1.0, vega-loader@~5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/vega-loader/-/vega-loader-5.1.0.tgz#69378fc4d46e8d4573ad308f76464e66b02579e6"
+  integrity sha512-GaY3BdSPbPNdtrBz8SYUBNmNd8mdPc3mtdZfdkFazQ0RD9m+Toz5oR8fKnTamNSk9fRTJX0Lp3uEqxrAlQVreg==
+  dependencies:
+    d3-dsv "^3.0.1"
+    topojson-client "^3.1.0"
+    vega-format "^2.1.0"
+    vega-util "^2.1.0"
+
 vega-parser@~6.5.0:
   version "6.5.0"
   resolved "https://registry.yarnpkg.com/vega-parser/-/vega-parser-6.5.0.tgz#d1427b1a921fbd25b0888659bbe9c099b317522b"
@@ -15383,6 +15682,17 @@ vega-parser@~6.5.0:
     vega-scale "^7.4.2"
     vega-util "^1.17.3"
 
+vega-parser@~7.1.0:
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/vega-parser/-/vega-parser-7.1.0.tgz#20ee0e70a6ecdb8cb34ef16deed484ad68c40850"
+  integrity sha512-g0lrYxtmYVW8G6yXpIS4J3Uxt9OUSkc0bLu5afoYDo4rZmoOOdll3x3ebActp5LHPW+usZIE+p5nukRS2vEc7Q==
+  dependencies:
+    vega-dataflow "^6.1.0"
+    vega-event-selector "^4.0.0"
+    vega-functions "^6.1.0"
+    vega-scale "^8.1.0"
+    vega-util "^2.1.0"
+
 vega-projection@^1.6.3, vega-projection@~1.6.2:
   version "1.6.3"
   resolved "https://registry.yarnpkg.com/vega-projection/-/vega-projection-1.6.3.tgz#e0e633730d512da2514c5c60db0fde3fa1e6ec16"
@@ -15391,6 +15701,15 @@ vega-projection@^1.6.3, vega-projection@~1.6.2:
     d3-geo "^3.1.0"
     d3-geo-projection "^4.0.0"
     vega-scale "^7.4.3"
+
+vega-projection@^2.1.0, vega-projection@~2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/vega-projection/-/vega-projection-2.1.0.tgz#ce46291ef78a7418c75679103296d62f49afac14"
+  integrity sha512-EjRjVSoMR5ibrU7q8LaOQKP327NcOAM1+eZ+NO4ANvvAutwmbNVTmfA1VpPH+AD0AlBYc39ND/wnRk7SieDiXA==
+  dependencies:
+    d3-geo "^3.1.1"
+    d3-geo-projection "^4.0.0"
+    vega-scale "^8.1.0"
 
 vega-regression@~1.3.1:
   version "1.3.2"
@@ -15402,6 +15721,16 @@ vega-regression@~1.3.1:
     vega-statistics "^1.9.0"
     vega-util "^1.17.4"
 
+vega-regression@~2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/vega-regression/-/vega-regression-2.1.0.tgz#d3fd103e97a0aee55ae2a78ed81588fb5dcb9e03"
+  integrity sha512-HzC7MuoEwG1rIxRaNTqgcaYF03z/ZxYkQR2D5BN0N45kLnHY1HJXiEcZkcffTsqXdspLjn47yLi44UoCwF5fxQ==
+  dependencies:
+    d3-array "^3.2.4"
+    vega-dataflow "^6.1.0"
+    vega-statistics "^2.0.0"
+    vega-util "^2.1.0"
+
 vega-runtime@^6.2.1, vega-runtime@~6.2.1:
   version "6.2.2"
   resolved "https://registry.yarnpkg.com/vega-runtime/-/vega-runtime-6.2.2.tgz#696ca644a12617b185c4b18058168d0470db32d2"
@@ -15409,6 +15738,14 @@ vega-runtime@^6.2.1, vega-runtime@~6.2.1:
   dependencies:
     vega-dataflow "^5.7.8"
     vega-util "^1.17.4"
+
+vega-runtime@^7.1.0, vega-runtime@~7.1.0:
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/vega-runtime/-/vega-runtime-7.1.0.tgz#1959d6168638f85bdce4d157117aca6ad1f69fac"
+  integrity sha512-mItI+WHimyEcZlZrQ/zYR3LwHVeyHCWwp7MKaBjkU8EwkSxEEGVceyGUY9X2YuJLiOgkLz/6juYDbMv60pfwYA==
+  dependencies:
+    vega-dataflow "^6.1.0"
+    vega-util "^2.1.0"
 
 vega-scale@^7.2.0, vega-scale@^7.4.2, vega-scale@^7.4.3, vega-scale@~7.4.2:
   version "7.4.3"
@@ -15421,6 +15758,18 @@ vega-scale@^7.2.0, vega-scale@^7.4.2, vega-scale@^7.4.3, vega-scale@~7.4.2:
     d3-scale-chromatic "^3.1.0"
     vega-time "^2.1.4"
     vega-util "^1.17.4"
+
+vega-scale@^8.1.0, vega-scale@~8.1.0:
+  version "8.1.0"
+  resolved "https://registry.yarnpkg.com/vega-scale/-/vega-scale-8.1.0.tgz#a06b3aa8d60ae46ad8f3d89eae0e74eb3d1200e3"
+  integrity sha512-VEgDuEcOec8+C8+FzLcnAmcXrv2gAJKqQifCdQhkgnsLa978vYUgVfCut/mBSMMHbH8wlUV1D0fKZTjRukA1+A==
+  dependencies:
+    d3-array "^3.2.4"
+    d3-interpolate "^3.0.1"
+    d3-scale "^4.0.2"
+    d3-scale-chromatic "^3.1.0"
+    vega-time "^3.1.0"
+    vega-util "^2.1.0"
 
 vega-scenegraph@^4.13.1:
   version "4.10.1-kanaries-patch"
@@ -15442,7 +15791,27 @@ vega-scenegraph@^4.13.2:
     vega-scale "^7.2.0"
     vega-util "^1.15.2"
 
+vega-scenegraph@^5.1.0:
+  version "4.10.1-kanaries-patch"
+  dependencies:
+    d3-path "^3.0.1"
+    d3-shape "^3.1.0"
+    vega-canvas "^1.2.5"
+    vega-loader "^4.4.0"
+    vega-scale "^7.2.0"
+    vega-util "^1.15.2"
+
 vega-scenegraph@~4.13.1:
+  version "4.10.1-kanaries-patch"
+  dependencies:
+    d3-path "^3.0.1"
+    d3-shape "^3.1.0"
+    vega-canvas "^1.2.5"
+    vega-loader "^4.4.0"
+    vega-scale "^7.2.0"
+    vega-util "^1.15.2"
+
+vega-scenegraph@~5.1.0:
   version "4.10.1-kanaries-patch"
   dependencies:
     d3-path "^3.0.1"
@@ -15466,12 +15835,28 @@ vega-selections@^5.6.0, vega-selections@^5.6.1:
     vega-expression "^5.2.1"
     vega-util "^1.17.4"
 
+vega-selections@^6.1.0:
+  version "6.1.2"
+  resolved "https://registry.yarnpkg.com/vega-selections/-/vega-selections-6.1.2.tgz#3646db6a9fc1d725969b8b5841e5d333c1f0f803"
+  integrity sha512-xJ+V4qdd46nk2RBdwIRrQm2iSTMHdlu/omhLz1pqRL3jZDrkqNBXimrisci2kIKpH2WBpA1YVagwuZEKBmF2Qw==
+  dependencies:
+    d3-array "3.2.4"
+    vega-expression "^6.1.0"
+    vega-util "^2.1.0"
+
 vega-statistics@^1.9.0, vega-statistics@~1.9.0:
   version "1.9.0"
   resolved "https://registry.yarnpkg.com/vega-statistics/-/vega-statistics-1.9.0.tgz#7d6139cea496b22d60decfa6abd73346f70206f9"
   integrity sha512-GAqS7mkatpXcMCQKWtFu1eMUKLUymjInU0O8kXshWaQrVWjPIO2lllZ1VNhdgE0qGj4oOIRRS11kzuijLshGXQ==
   dependencies:
     d3-array "^3.2.2"
+
+vega-statistics@^2.0.0, vega-statistics@~2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/vega-statistics/-/vega-statistics-2.0.0.tgz#9c9636c20682ae98e8887f8fab0e82c2466a736a"
+  integrity sha512-dGPfDXnBlgXbZF3oxtkb8JfeRXd5TYHx25Z/tIoaa9jWua4Vf/AoW2wwh8J1qmMy8J03/29aowkp1yk4DOPazQ==
+  dependencies:
+    d3-array "^3.2.4"
 
 vega-themes@^2.10.0:
   version "2.12.0"
@@ -15486,6 +15871,15 @@ vega-time@^2.1.3, vega-time@^2.1.4, vega-time@~2.1.3:
     d3-array "^3.2.2"
     d3-time "^3.1.0"
     vega-util "^1.17.4"
+
+vega-time@^3.1.0, vega-time@~3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/vega-time/-/vega-time-3.1.0.tgz#4e20c5d60e3f7e827a33db29bd4855f40a0ae3cb"
+  integrity sha512-G93mWzPwNa6UYQRkr8Ujur9uqxbBDjDT/WpXjbDY0yygdSkRT+zXF+Sb4gjhW0nPaqdiwkn0R6kZcSPMj1bMNA==
+  dependencies:
+    d3-array "^3.2.4"
+    d3-time "^3.1.0"
+    vega-util "^2.1.0"
 
 vega-tooltip@^0.28.0:
   version "0.28.0"
@@ -15504,6 +15898,17 @@ vega-transforms@~4.12.1:
     vega-statistics "^1.9.0"
     vega-time "^2.1.4"
     vega-util "^1.17.4"
+
+vega-transforms@~5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/vega-transforms/-/vega-transforms-5.1.0.tgz#4e95cd7c4773aa560928d10385a0d33ea2748caa"
+  integrity sha512-mj/sO2tSuzzpiXX8JSl4DDlhEmVwM/46MTAzTNQUQzJPMI/n4ChCjr/SdEbfEyzlD4DPm1bjohZGjLc010yuMg==
+  dependencies:
+    d3-array "^3.2.4"
+    vega-dataflow "^6.1.0"
+    vega-statistics "^2.0.0"
+    vega-time "^3.1.0"
+    vega-util "^2.1.0"
 
 vega-typings@^0.24.0:
   version "0.24.0"
@@ -15525,10 +15930,25 @@ vega-typings@~1.5.0:
     vega-expression "^5.2.1"
     vega-util "^1.17.4"
 
+vega-typings@~2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/vega-typings/-/vega-typings-2.1.0.tgz#1c1fe548c0f00997820246ade0d3d813b87bfd76"
+  integrity sha512-zdis4Fg4gv37yEvTTSZEVMNhp8hwyEl7GZ4X4HHddRVRKxWFsbyKvZx/YW5Z9Ox4sjxVA2qHzEbod4Fdx+SEJA==
+  dependencies:
+    "@types/geojson" "7946.0.16"
+    vega-event-selector "^4.0.0"
+    vega-expression "^6.1.0"
+    vega-util "^2.1.0"
+
 vega-util@^1.15.2, vega-util@^1.17.0, vega-util@^1.17.1, vega-util@^1.17.3, vega-util@^1.17.4, vega-util@~1.17.0, vega-util@~1.17.2:
   version "1.17.4"
   resolved "https://registry.yarnpkg.com/vega-util/-/vega-util-1.17.4.tgz#b35781fe8e8d030e6519746682843d7ef9ff6d27"
   integrity sha512-+y3ZW7dEqM8Ck+KRsd+jkMfxfE7MrQxUyIpNjkfhIpGEreym+aTn7XUw1DKXqclr8mqTQvbilPo16B3lnBr0wA==
+
+vega-util@^2.1.0, vega-util@~2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/vega-util/-/vega-util-2.1.0.tgz#54f42d6a80e5904ea9ac6c0327e6ac57601ce85f"
+  integrity sha512-PGfp0m0QCufDmcxKJCWQy4Ov23FoF8DSXmoJwSezi3itQaa2hbxK0+xwsTMP2vy4PR16Pu25HMzgMwXVW1+33w==
 
 vega-view-transforms@~4.6.1:
   version "4.6.2"
@@ -15538,6 +15958,15 @@ vega-view-transforms@~4.6.1:
     vega-dataflow "^5.7.8"
     vega-scenegraph "^4.13.2"
     vega-util "^1.17.4"
+
+vega-view-transforms@~5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/vega-view-transforms/-/vega-view-transforms-5.1.0.tgz#1f31f75efcf99b38969e750043adb922fcec6f3e"
+  integrity sha512-fpigh/xn/32t+An1ShoY3MLeGzNdlbAp2+HvFKzPpmpMTZqJEWkk/J/wHU7Swyc28Ta7W1z3fO+8dZkOYO5TWQ==
+  dependencies:
+    vega-dataflow "^6.1.0"
+    vega-scenegraph "^5.1.0"
+    vega-util "^2.1.0"
 
 vega-view@~5.15.0:
   version "5.15.0"
@@ -15553,6 +15982,20 @@ vega-view@~5.15.0:
     vega-scenegraph "^4.13.1"
     vega-util "^1.17.3"
 
+vega-view@~6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/vega-view/-/vega-view-6.1.0.tgz#5596f78c5ebca8dcb57feca40fd31cb8265fd04e"
+  integrity sha512-hmHDm/zC65lb23mb9Tr9Gx0wkxP0TMS31LpMPYxIZpvInxvUn7TYitkOtz1elr63k2YZrgmF7ztdGyQ4iCQ5fQ==
+  dependencies:
+    d3-array "^3.2.4"
+    d3-timer "^3.0.1"
+    vega-dataflow "^6.1.0"
+    vega-format "^2.1.0"
+    vega-functions "^6.1.0"
+    vega-runtime "^7.1.0"
+    vega-scenegraph "^5.1.0"
+    vega-util "^2.1.0"
+
 vega-voronoi@~4.2.4:
   version "4.2.5"
   resolved "https://registry.yarnpkg.com/vega-voronoi/-/vega-voronoi-4.2.5.tgz#abf4f75dc3e11cacc90f2e682c4d3d5ff90f0ed2"
@@ -15561,6 +16004,15 @@ vega-voronoi@~4.2.4:
     d3-delaunay "^6.0.2"
     vega-dataflow "^5.7.8"
     vega-util "^1.17.4"
+
+vega-voronoi@~5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/vega-voronoi/-/vega-voronoi-5.1.0.tgz#92956b9d78f06e3918970fc84d06974e24b9f52f"
+  integrity sha512-uKdsoR9x60mz7eYtVG+NhlkdQXeVdMr6jHNAHxs+W+i6kawkUp5S9jp1xf1FmW/uZvtO1eqinHQNwATcDRsiUg==
+  dependencies:
+    d3-delaunay "^6.0.4"
+    vega-dataflow "^6.1.0"
+    vega-util "^2.1.0"
 
 vega-wordcloud@~4.1.6:
   version "4.1.7"
@@ -15573,7 +16025,18 @@ vega-wordcloud@~4.1.6:
     vega-statistics "^1.9.0"
     vega-util "^1.17.4"
 
-vega@^5.22.1, vega@^5.32.0:
+vega-wordcloud@~5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/vega-wordcloud/-/vega-wordcloud-5.1.0.tgz#7aa8dcbf6c83b193fe71fb6410be15ad2c7285e6"
+  integrity sha512-sSdNmT8y2D7xXhM2h76dKyaYn3PA4eV49WUUkfYfqHz/vpcu10GSAoFxLhQQTkbZXR+q5ZB63tFUow9W2IFo6g==
+  dependencies:
+    vega-canvas "^2.0.0"
+    vega-dataflow "^6.1.0"
+    vega-scale "^8.1.0"
+    vega-statistics "^2.0.0"
+    vega-util "^2.1.0"
+
+vega@^5.22.1:
   version "5.32.0"
   resolved "https://registry.yarnpkg.com/vega/-/vega-5.32.0.tgz#a826eb0a8d429e5b715d3e69c565a73d747a02ed"
   integrity sha512-jANt/5+SpV7b7owB5u8+M1TZ/TrF1fK6WlcvKDW38tH3Gb6hM1nzIhv10E41w3GBmwF29BU/qH2ruNkaYKjI5g==
@@ -15605,6 +16068,39 @@ vega@^5.22.1, vega@^5.32.0:
     vega-view-transforms "~4.6.1"
     vega-voronoi "~4.2.4"
     vega-wordcloud "~4.1.6"
+
+vega@^6.2.0:
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/vega/-/vega-6.2.0.tgz#34c2de83b00e701e040029738b26f1ec992f327f"
+  integrity sha512-BIwalIcEGysJdQDjeVUmMWB3e50jPDNAMfLJscjEvpunU9bSt7X1OYnQxkg3uBwuRRI4nWfFZO9uIW910nLeGw==
+  dependencies:
+    vega-crossfilter "~5.1.0"
+    vega-dataflow "~6.1.0"
+    vega-encode "~5.1.0"
+    vega-event-selector "~4.0.0"
+    vega-expression "~6.1.0"
+    vega-force "~5.1.0"
+    vega-format "~2.1.0"
+    vega-functions "~6.1.0"
+    vega-geo "~5.1.0"
+    vega-hierarchy "~5.1.0"
+    vega-label "~2.1.0"
+    vega-loader "~5.1.0"
+    vega-parser "~7.1.0"
+    vega-projection "~2.1.0"
+    vega-regression "~2.1.0"
+    vega-runtime "~7.1.0"
+    vega-scale "~8.1.0"
+    vega-scenegraph "~5.1.0"
+    vega-statistics "~2.0.0"
+    vega-time "~3.1.0"
+    vega-transforms "~5.1.0"
+    vega-typings "~2.1.0"
+    vega-util "~2.1.0"
+    vega-view "~6.1.0"
+    vega-view-transforms "~5.1.0"
+    vega-voronoi "~5.1.0"
+    vega-wordcloud "~5.1.0"
 
 visual-insights@^0.12.3:
   version "0.12.3"
